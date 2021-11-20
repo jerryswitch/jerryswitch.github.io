@@ -48518,7 +48518,7 @@ s.r.$1(s.e)},
 $S:0}
 Y.yh.prototype={
 R(a,b){var s=null,r=b.af(t.w).f.a.a
-return M.a6k(C.xw,Q.agb(T.BC(C.cJ,H.a([T.A1(s,new T.dE(C.xY,T.K9(L.UI("Jerry Switch",B.a5c(C.j,r*0.15),s,s),s,s),s),s,s,30,s,30,s),T.A1(10,U.a5j("assets/switch_main.png",r*0.6),s,s,s,-10,s,s),new T.ly(C.fZ,s,s,new T.dE(C.xW,R.a1e(!1,!0,new T.dE(C.hX,U.a5j("assets/down.png",r*0.05),s),s,!0,s,s,s,s,s,s,s,s,s,new Y.Nz(b),s),s),s)],t.p),C.cz),!0))}}
+return M.a6k(C.xw,Q.agb(T.BC(C.cJ,H.a([T.A1(s,new T.dE(C.xY,T.K9(L.UI("Jerry Switch",B.a5c(C.j,r*0.15),s,s),s,s),s),s,s,30,s,30,s),T.A1(10,U.a5j("assets/switch_main.png",r*0.55),s,s,s,-10,s,s),new T.ly(C.fZ,s,s,new T.dE(C.xW,R.a1e(!1,!0,new T.dE(C.hX,U.a5j("assets/down.png",r*0.05),s),s,!0,s,s,s,s,s,s,s,s,s,new Y.Nz(b),s),s),s)],t.p),C.cz),!0))}}
 Y.Nz.prototype={
 $0(){var s=V.a5C(new Y.Ny(),null,t.z)
 K.PR(this.a).oO(s)},
